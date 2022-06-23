@@ -4,7 +4,7 @@ docker-compose up
 
 #### Run npm install for backend & frontend
 
-#### Create a .env file at backend root:
+#### Edit .env file at backend root:
 
 DB_USER=yourdb
 DB_HOST=yourhost
