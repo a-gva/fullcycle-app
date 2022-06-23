@@ -1,3 +1,7 @@
+#### Run at root:
+
+docker-compose up
+
 #### Run npm install for backend & frontend
 
 #### Create a .env file at backend root:
